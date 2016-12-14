@@ -240,7 +240,7 @@ WARNING: If there is more than one After test, MUnit does not guarantee the orde
 [tab,title="Studio Visual Editor"]
 ....
 image:after-test.png[after-test]
-Note that the `after.suite` is located outside the MUnit test
+Note that the `after.test` is located outside the MUnit test
 ....
 [tab,title="XML or Standalone Editor"]
 ....
@@ -260,7 +260,7 @@ Note that the `after.suite` is located outside the MUnit test
 </munit:after-test>
 ----
 
-Note that the `after.suite` is located outside the MUnit test
+Note that the `after.test` is located outside the MUnit test
 ....
 ------
 
